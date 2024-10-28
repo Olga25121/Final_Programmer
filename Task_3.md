@@ -7,7 +7,9 @@
 ![Alt text](/finaldocs1.jpg)
 ![Alt text](/finaldocs2.jpg)
 
+
 # Устанавливаем MySQL WorkBench в качестве дополнительного репозитория
+
 
 oj@oj-VirtualBox:~$ sudo dpkg -i mysql-workbench-community_8.0.36-1ubuntu22.04_amd64.deb
 
@@ -30,3 +32,6 @@ oj@oj-VirtualBox:~$ sudo dpkg -i mysql-workbench-community_8.0.36-1ubuntu22.04_a
 Обрабатываются триггеры для hicolor-icon-theme (0.17-2) …
 
 Обрабатываются триггеры для shared-mime-info (2.1-2) …
+
+
+[def]: /finaldocs2.jpg
